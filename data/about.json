@@ -1,0 +1,34 @@
+{
+ "region": "충남 당진시 신평면",
+ "nameEn": "Sehan University Dangjin Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 318,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SHINSUNG",
+   "campus": "신성대학교",
+   "km": 16.9
+  },
+  {
+   "code": "SCH",
+   "campus": "순천향대학교",
+   "km": 17.9
+  },
+  {
+   "code": "KNPU",
+   "campus": "경찰대학",
+   "km": 21.1
+  },
+  {
+   "code": "KONGJU-YESAN",
+   "campus": "국립공주대학교 예산캠퍼스",
+   "km": 24.2
+  },
+  {
+   "code": "U1-ASAN",
+   "campus": "유원대학교 아산캠퍼스",
+   "km": 25.1
+  }
+ ]
+}
